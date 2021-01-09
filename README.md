@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bruno B Monteiro</h1>
+<h1 align="center">Hi there 👋, I'm Daniel Moreira Cardoso</h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
