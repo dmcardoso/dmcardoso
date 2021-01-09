@@ -9,7 +9,8 @@
 </p>
 
 
-<div align="center" style="display: flex;">
+<h3 align="center">Helpfull info:</h3>
+<div align="center" style="display: flex;justify-content: space-around;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmcardoso&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dmcardoso" /></p>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmcardoso&show_icons=true&locale=en&theme=dracula" alt="dmcardoso" /></p>
