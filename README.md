@@ -9,7 +9,7 @@
 </p>
 
 
-<div align="center">
+<div align="center" style="display: flex;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmcardoso&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dmcardoso" /></p>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmcardoso&show_icons=true&locale=en&theme=dracula" alt="dmcardoso" /></p>
